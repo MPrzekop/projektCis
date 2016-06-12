@@ -136,8 +136,6 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <None Include="czajnik.mtl" />
-    <None Include="czajnik.obj" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -182,6 +180,9 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="GoodBullet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="azureScreen.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

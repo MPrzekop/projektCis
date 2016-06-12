@@ -23,6 +23,7 @@ namespace SpaceBattle
     {
         public MainWindow()
         {
+          
             this.Width = 900;
             this.Height = 900;
             this.ResizeMode = ResizeMode.NoResize;
